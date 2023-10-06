@@ -1,4 +1,4 @@
-# Trabalho-De-Inteligncia-Artificial
+# Trabalho-De-Inteligência-Artificial
 
 Trabalho De Inteligência Artificial Reconhecimento de Imagens
 
